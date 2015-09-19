@@ -1,0 +1,45 @@
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.vbprojResolveAssemblyReference.cache
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.Resources.resources
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.vbproj.GenerateResource.Cache
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.pdb
+D:\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.dll
+D:\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.pdb
+D:\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.xml
+D:\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.dll
+D:\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.pdb
+D:\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.xml
+D:\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.vbprojResolveAssemblyReference.cache
+D:\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.Resources.resources
+D:\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.vbproj.GenerateResource.Cache
+D:\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.dll
+D:\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.xml
+D:\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.pdb
+D:\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\ComponenteDatos.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\bin\Debug\ComponenteEntidad.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.vbprojResolveAssemblyReference.cache
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.Resources.resources
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.vbproj.GenerateResource.Cache
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteDatos\obj\Debug\ComponenteDatos.pdb

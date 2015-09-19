@@ -1,0 +1,16 @@
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\bin\Debug\ComponenteEntidad.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\bin\Debug\ComponenteEntidad.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\bin\Debug\ComponenteEntidad.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.Resources.resources
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.vbproj.GenerateResource.Cache
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb
+D:\Carrito\ComponenteEntidad\bin\Debug\ComponenteEntidad.dll
+D:\Carrito\ComponenteEntidad\bin\Debug\ComponenteEntidad.pdb
+D:\Carrito\ComponenteEntidad\bin\Debug\ComponenteEntidad.xml
+D:\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.Resources.resources
+D:\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.vbproj.GenerateResource.Cache
+D:\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
+D:\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.xml
+D:\Carrito\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb

@@ -1,0 +1,44 @@
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.vbprojResolveAssemblyReference.cache
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.Resources.resources
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.vbproj.GenerateResource.Cache
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.xml
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.xml
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+D:\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.xml
+D:\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.vbprojResolveAssemblyReference.cache
+D:\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.Resources.resources
+D:\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.vbproj.GenerateResource.Cache
+D:\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+D:\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.xml
+D:\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteNegocio.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteDatos.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.vbprojResolveAssemblyReference.cache
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.Resources.resources
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.vbproj.GenerateResource.Cache
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb

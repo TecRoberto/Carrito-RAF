@@ -1,0 +1,48 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Principal.master.vb" Inherits="Carrito.Principal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    MI CARRITO DE COMPRAS
+                </h1>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Catalogo.aspx" Text="HOME"/>
+                        <asp:MenuItem NavigateUrl="~/Catalogo.aspx" Text="CATALOGO DE PRODUCTOS"/>
+                        <asp:MenuItem NavigateUrl="~/listacomprados.aspx" Text="DETALLE DE COMPRA"/>
+                        <asp:MenuItem NavigateUrl="#" Text="ACERCA DE"/>
+                        <asp:MenuItem NavigateUrl="~/inicio.aspx" Text="CERRAR SESION"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+       <div style="width: 85%; height: 100%; ">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
+
+

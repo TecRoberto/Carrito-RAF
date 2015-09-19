@@ -1,0 +1,81 @@
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\bin\Carrito.dll
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\bin\Carrito.pdb
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\bin\Carrito.xml
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\obj\Debug\Carrito.Resources.resources
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbproj.GenerateResource.Cache
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\obj\Debug\Carrito.dll
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\obj\Debug\Carrito.xml
+c:\users\walter\documents\visual studio 2012\Projects\Carrito\Carrito\obj\Debug\Carrito.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\Carrito.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\Carrito.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\Carrito.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteDatos.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteEntidad.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteNegocio.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteDatos.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteDatos.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteEntidad.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteEntidad.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteNegocio.pdb
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\bin\ComponenteNegocio.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbprojResolveAssemblyReference.cache
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\obj\Debug\Carrito.Resources.resources
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbproj.GenerateResource.Cache
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\obj\Debug\Carrito.dll
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\obj\Debug\Carrito.xml
+D:\UNT\9no ciclo\TAIS\ULTIMO-TRABAJO\proyecto\Carrito\Carrito\obj\Debug\Carrito.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\Carrito.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\Carrito.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\Carrito.xml
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteDatos.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteEntidad.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteNegocio.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteDatos.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteDatos.xml
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteEntidad.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteEntidad.xml
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteNegocio.pdb
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\bin\ComponenteNegocio.xml
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\obj\Debug\Carrito.Resources.resources
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbproj.GenerateResource.Cache
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\obj\Debug\Carrito.dll
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\obj\Debug\Carrito.xml
+C:\Users\Esteban\Documents\Visual Studio 2012\Projects\9no\TAIS\Carrito\Carrito\obj\Debug\Carrito.pdb
+D:\Carrito\Carrito\bin\Carrito.dll
+D:\Carrito\Carrito\bin\Carrito.pdb
+D:\Carrito\Carrito\bin\Carrito.xml
+D:\Carrito\Carrito\bin\ComponenteDatos.dll
+D:\Carrito\Carrito\bin\ComponenteEntidad.dll
+D:\Carrito\Carrito\bin\ComponenteNegocio.dll
+D:\Carrito\Carrito\bin\ComponenteDatos.pdb
+D:\Carrito\Carrito\bin\ComponenteDatos.xml
+D:\Carrito\Carrito\bin\ComponenteEntidad.pdb
+D:\Carrito\Carrito\bin\ComponenteEntidad.xml
+D:\Carrito\Carrito\bin\ComponenteNegocio.pdb
+D:\Carrito\Carrito\bin\ComponenteNegocio.xml
+D:\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbprojResolveAssemblyReference.cache
+D:\Carrito\Carrito\obj\Debug\Carrito.Resources.resources
+D:\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbproj.GenerateResource.Cache
+D:\Carrito\Carrito\obj\Debug\Carrito.dll
+D:\Carrito\Carrito\obj\Debug\Carrito.xml
+D:\Carrito\Carrito\obj\Debug\Carrito.pdb
+D:\Carrito\Carrito\bin\Carrito.dll.config
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\Carrito.dll.config
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\Carrito.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\Carrito.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\Carrito.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteDatos.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteEntidad.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteNegocio.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteDatos.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteDatos.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteEntidad.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteNegocio.pdb
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\bin\ComponenteNegocio.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbprojResolveAssemblyReference.cache
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\obj\Debug\Carrito.Resources.resources
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\obj\Debug\CarritoDeCompras.vbproj.GenerateResource.Cache
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\obj\Debug\Carrito.dll
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\obj\Debug\Carrito.xml
+D:\Documentos\CURSO-Temas Avanzados de Ingenieria de Sistemas (TAIS)\Carrito\Carrito\obj\Debug\Carrito.pdb
